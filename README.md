@@ -1,1 +1,2 @@
-# Posture-Tracker
+# SMTBPC
+WebCam Back Posture Corrector for Windows
